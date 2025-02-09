@@ -12,27 +12,29 @@ Uses Static Site Generation (SSG) or Server-Side Rendering (SSR) to display the 
 
 ## 🚀 Installation
 ==>Clone the project:
-```
+
 bash
 ```
 git clone [https://github.com/mo7amedahmed1214/DisplayProducts.git]
 cd project-name
-
+```
 
 ==>Install dependencies:
-```
+
 bash
 ```
 npm install
-
+```
 
 ==>Run the application in development mode:
-```
+
 bash
+
 ```
 npm run dev
+```
 
-
+### live demo ==>>[http://display-products-drab.vercel.app]
 
 ### Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

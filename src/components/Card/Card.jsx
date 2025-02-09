@@ -34,7 +34,7 @@ export default function Card({ productInfo }) {
                 </h3>
                 <p className="text-gray-500 text-[17px] line-clamp-2 p-0">{description}</p>
                 <div className="flex justify-between items-center">
-                    <p className="text-primary-400 font-semibold">{price} E.G</p>
+                    <p className="text-primary-800 font-semibold">{price} E.G</p>
                     <p className="text-black font-semibold" >{rating.rate}<FaStar className="inline-block text-orange-300 text-lg mb-1 " /></p>
                 </div>
                 

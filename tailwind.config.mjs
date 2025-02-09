@@ -34,17 +34,17 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         primary: {
-          50: "#ceefce",
-          100: "#b6e6b6",
-          200: "#9dde9d",
-          300: "#85d685",
-          400: "#6cce6c",
-          500: "#54c654",
-          600: "#3bbd3b",
-          700: "#23b523",
-          800: "#0aad0a",
-          900: "#099c09",
-          950: "#077907",
+          50: "#fbe8e9",
+          100: "#f8d2d3",
+          200: "#f4bbbd",
+          300: "#f1a4a7",
+          400: "#ed8e92",
+          500: "#e24950",
+          600: "#e24950",
+          700: "#df333a",
+          800: "#db1c24",
+         
+      
         }
 
 
