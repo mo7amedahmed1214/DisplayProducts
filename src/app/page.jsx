@@ -43,7 +43,7 @@ export default function Home() {
       <main className="container px-5 sm:px-3 ">
         <div className="flex justify-center w-full mt-6">
           <input type="text"
-            className="apply py-1 px-2 rounded-md focus:outline-none border-2 border-slate-400 border-opacity-40 focus:border-primary-400 focus:caret-primary-400 focus:shadow-lg w-3/4  " placeholder="search..."
+            className="apply py-1 text-black px-2 rounded-md focus:outline-none border-2 border-slate-400 border-opacity-40 focus:border-primary-400 focus:caret-primary-400 focus:shadow-lg w-3/4  " placeholder="search..."
             onChange={(e) => {
               setCopyProducts(products?.filter((product) => product.title.toLowerCase().includes(e.target.value.toLowerCase())))
             }}
