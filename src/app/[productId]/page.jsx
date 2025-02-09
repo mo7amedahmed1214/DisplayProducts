@@ -31,7 +31,7 @@ export default async function page({ params }) {
     <main className="container px-5 sm:px-3">
 
 
-      <h2 className="text-3xl font-semibold my-10 ">Details Of Product:</h2>
+      <h2 className="text-3xl text-black font-semibold my-10 ">Details Of Product:</h2>
       <section className=" py-6  grid grid-cols-12  gap-7 mb-3  p-2 shadow-md rounded-lg overflow-hidden">
         <div className="col-span-12 sm:col-span-3">
           <Image src={productDetails?.image} width={400} height={400} className="w-full" alt={productDetails?.title} />
